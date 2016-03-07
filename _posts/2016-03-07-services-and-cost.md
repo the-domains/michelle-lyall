@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T11:59:05.798Z'
-dateModified: '2016-03-07T11:58:42.601Z'
+datePublished: '2016-03-07T17:26:49.220Z'
+dateModified: '2016-03-07T13:23:50.902Z'
 title: Services and Prices
 author: []
 sourcePath: _posts/2016-03-07-services-and-cost.md
