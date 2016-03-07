@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T06:11:10.422Z'
-dateModified: '2016-03-07T05:55:38.785Z'
+datePublished: '2016-03-07T06:25:03.193Z'
+dateModified: '2016-03-07T06:24:47.032Z'
 title: Services and Cost
 author: []
+sourcePath: _posts/2016-03-07-services-and-cost.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-services-and-cost.md
-published: true
 url: services-and-cost/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb78c64-b180-446f-8524-80516b04a738.png)
-
 # Services and Cost
 
 First consultation is Free
@@ -37,3 +35,4 @@ Full sessions-$100 for any of the following:
 * Guided Journey to Self with: Nature, Food, Body, Sexualness 
 * Energetic Body Processes
 * Energy Movement
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/383f8648-4cbd-486d-89ce-63fc3f1486af.png)
