@@ -1,0 +1,75 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-07T17:25:54.988Z'
+dateModified: '2016-03-07T17:25:37.110Z'
+title: "Energetic Facelift™- $125\_"
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-07-energetic-facelifttm-dollar125.md
+published: true
+url: energetic-facelifttm-dollar125/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01daa8d-fff8-4949-b059-140fe7b07572.jpg)
+
+# Energetic Facelift(tm)- $125 
+
+The Access Energetic Facelift(tm) is a wonderful way to rejuvenate the face and reverse the appearance of aging. 
+
+What if you could have a natural facelift instead of going under the knife or having to resort to chemicals like Botox? 
+
+Can you believe? 
+
+The benefits of the Energetic Face Lift with Zero Botox 
+
+* No Knives 
+* No Drugs 
+* No Pain 
+* No Fillers 
+* No Loss of time from Work 
+* No Cutting 
+* Folding 
+* Stapling 
+* Pasting
+* Gluing
+* Bandaging of your SKIN. 
+
+What is it then?.... 
+
+26 different processes to reverse the appearance of aging on the face with a BONUS because it positively effects the body as well. 
+
+What have clients noticed? 
+
+* A lessening of lines and wrinkles 
+* Improved eye-sight 
+Firmness
+* Toning of facial muscles 
+* Overall skin 
+Healing of and reversal of the scarring process 
+* Healthier skin and overall appearance 
+
+Possibilities for your life showing up better than you may have ever imagined! 
+
+What's Missing? 
+
+* There is NO surgical procedure 
+* NO injections, peels or drugs 
+* NO recovery time 
+* NO facial exercises 
+* NO creams or products to buy  
+* NO lengthy consultations 
+* NO risk
+
+Call Now to schedule your appointment....
