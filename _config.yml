@@ -1,7 +1,7 @@
 name: Michelle Lyall
 favicon: null
 layout_spectrum: 0.18450409430079162
-typography_spectrum: 0.36511245300062
+typography_spectrum: 0.16297
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7485916989389807
+  brandStrength: 0.6875
   lightness: 0.9211830757558346
   saturation: 0.8046886222437024
   rhythmicContrast: 0.3115286473184824
