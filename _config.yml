@@ -19,11 +19,16 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Michelle Lyall
+  email: michelle@michellelyall.com
+  url: michellelyall.com
 name: Michelle Lyall
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
+title: Is Your Perspective The Limitation?
 description: Coach & Facilitator
 purpose: []
