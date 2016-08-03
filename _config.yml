@@ -1,19 +1,4 @@
-name: Michelle Lyall
-favicon: null
-layout_spectrum: 0.87725
 typography_spectrum: 0.39022
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3f87a0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9211830757558346
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87725
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Michelle Lyall
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Coach & Facilitator
 purpose: []
