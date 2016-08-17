@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:35:29.486Z'
+datePublished: '2016-08-17T15:56:37.890Z'
 sourcePath: _posts/2016-03-07-who-i-be-question-coach.md
 inFeed: true
 authors: []
@@ -7,15 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T17:35:28.661Z'
+dateModified: '2016-08-17T15:56:37.228Z'
 title: Who Is Michelle Lyall
 publisher: {}
 description: >-
   I was born a seeker, a question asker and a non-conformist. Always sure there
   was something more, something greater and infinite possibility. This allowed
-  me the drive to pursue; educationally, experientially and personally. I can
-  list the credentials, that list is long and I believed for a long time,
-  credentials mattered.
+  me the drive to pursue. 
 inLanguage: null
 inNav: false
 starred: true
@@ -27,11 +25,15 @@ _type: Article
 
 # Who Is Michelle Lyall
 
-I was born a seeker, a question asker and a non-conformist. Always sure there was something more, something greater and infinite possibility. This allowed me the drive to pursue; educationally, experientially and personally. I can list the credentials, that list is long and I believed for a long time, credentials mattered.
+I was born a seeker, a question asker and a non-conformist. Always sure there was something more, something greater and infinite possibility. This allowed me the drive to pursue. 
+
+* Educationally, 
+* Experientially 
+* PersonallyI can list the credentials, that list is long and I believed for a long time, credentials mattered.
 
 What really matters isn't my education, my experience or even my capacity to assist you. What matters is whether you are drawn to work with me, that is the place where we meet, where change is possible.
 
-I have traveled to the darkest places of my being and danced in the light, fought, survived, created, destroyed, sought, found, died and re-birthed and awakened to my authentic self only to discover the lies, the story and the mind all taunting me. One day my world was changed through the simple idea of choice and joy found permanent residence in my body dancing with my being.
+I have traveled to the darkest places of my being and danced in the light, fought, survived, created, destroyed, sought, found, died, re-birthed and awakened to my authentic self only to discover the lies, the story and the mind all taunting me. One day my world was changed through the simple idea of choice and joy found permanent residence in my body dancing with my being.
 
 ## Would You Like A Session?
 
