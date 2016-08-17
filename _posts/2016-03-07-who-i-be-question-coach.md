@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T15:56:37.890Z'
+datePublished: '2016-08-17T15:58:46.708Z'
 sourcePath: _posts/2016-03-07-who-i-be-question-coach.md
 inFeed: true
 authors: []
@@ -7,13 +7,13 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-17T15:56:37.228Z'
+dateModified: '2016-08-17T15:58:45.947Z'
 title: Who Is Michelle Lyall
 publisher: {}
 description: >-
   I was born a seeker, a question asker and a non-conformist. Always sure there
   was something more, something greater and infinite possibility. This allowed
-  me the drive to pursue. 
+  me the drive to pursue.
 inLanguage: null
 inNav: false
 starred: true
@@ -21,14 +21,14 @@ url: who-i-be-question-coach/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3ad662f-676a-452e-b762-7ce57d5f40de.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23093711-a4f3-4f8c-9e6e-0e179124fe94.jpg)
 
 # Who Is Michelle Lyall
 
-I was born a seeker, a question asker and a non-conformist. Always sure there was something more, something greater and infinite possibility. This allowed me the drive to pursue. 
+I was born a seeker, a question asker and a non-conformist. Always sure there was something more, something greater and infinite possibility. This allowed me the drive to pursue.
 
-* Educationally, 
-* Experientially 
+* Educationally,
+* Experientially
 * PersonallyI can list the credentials, that list is long and I believed for a long time, credentials mattered.
 
 What really matters isn't my education, my experience or even my capacity to assist you. What matters is whether you are drawn to work with me, that is the place where we meet, where change is possible.
